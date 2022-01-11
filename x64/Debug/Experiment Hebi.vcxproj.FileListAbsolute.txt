@@ -1,0 +1,2 @@
+E:\Visual Studio\Experiment Hebi\x64\Debug\Experiment Hebi.exe
+E:\Visual Studio\Experiment Hebi\x64\Debug\Experiment Hebi.pdb
